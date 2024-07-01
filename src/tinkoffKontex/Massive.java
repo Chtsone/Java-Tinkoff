@@ -1,3 +1,5 @@
+package tinkoffKontex;
+
 public class Massive
     {
     private int[] array;

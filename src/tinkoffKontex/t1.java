@@ -1,3 +1,5 @@
+package tinkoffKontex;
+
 import java.util.*;
 
 public class t1
